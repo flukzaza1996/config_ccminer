@@ -4,16 +4,16 @@
 		"name": "sg.vipor.net",
         "url": "stratum+tcp://sg.vipor.net:5040",
 		"timeout": 150,
-		"disabled": 0
+		"disabled": 1
 	},
 	{
 		"name": "ap.luckpool.net",
-        "url": "stratum+tcp://ap.luckpool.net:3960",
+        "url": "stratum+tcp://sg.vipor.net:5045",
 		"timeout": 150,
-		"disabled": 1
+		"disabled": 0
 	}],
 	
-	"user": "RFm4yMtVKoYFk2feRs7EKgcBA6rGWDNqbG.Phone-Nova2i-001",
+	"user": "RFm4yMtVKoYFk2feRs7EKgcBA6rGWDNqbG.Y9-001",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
