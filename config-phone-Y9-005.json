@@ -20,7 +20,7 @@
 	}],
 	
 	"user": "RFm4yMtVKoYFk2feRs7EKgcBA6rGWDNqbG.Y9-005",
-	"pass": "",
+	"pass": "hybrid",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
