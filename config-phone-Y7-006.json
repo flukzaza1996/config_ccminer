@@ -10,13 +10,13 @@
 		"name": "ap.luckpool.net",
 		"url": "stratum+tcp://ap.luckpool.net:3960",
 		"timeout": 150,
-		"disabled": 0
+		"disabled": 1
 	},
 	{
 		"name": "vipor solo",
 		"url": "stratum+tcp://sg.vipor.net:5045",
 		"timeout": 150,
-		"disabled": 1
+		"disabled": 0
 	}],
 	
 	"user": "RFm4yMtVKoYFk2feRs7EKgcBA6rGWDNqbG.Y7-006",
